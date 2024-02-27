@@ -1,4 +1,4 @@
-# Scalable_FM
+# Scalable and Efficient Functional Map Computations on Dense Meshes
 This is the official implementation of the paper [Scalable and Efficient Functional Map Computations on Dense Meshes](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14746).
 
 This paper relies on my [pyFM package](https://github.com/RobinMagnet/pyFM), which you can install or simply clone (it is very lightweight).
